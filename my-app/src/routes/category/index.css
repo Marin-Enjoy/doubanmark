@@ -1,0 +1,24 @@
+#catWrap{
+	width: 90%;
+	margin:20% 5%;
+}
+#catWrap a{
+	display: block;
+	width: 30%;
+	height: 124px;
+	border-radius: 5px;
+	font-size: 28px;
+	float: left;
+	margin: 1.5%;
+	text-align: center;
+	line-height: 124px;
+}
+#catWrap a:nth-child(1){background: red;}
+#catWrap a:nth-child(2){background: chartreuse;}
+#catWrap a:nth-child(3){background: yellow;}
+#catWrap a:nth-child(4){background: greenyellow;}
+#catWrap a:nth-child(5){background: palevioletred;}
+#catWrap a:nth-child(6){background: saddlebrown;}
+#catWrap a:nth-child(7){background: hotpink;}
+#catWrap a:nth-child(8){background: gold;}
+#catWrap a:nth-child(9){background: violet;}

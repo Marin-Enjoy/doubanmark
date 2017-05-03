@@ -1,0 +1,105 @@
+*{margin: 0; padding: 0}
+body {
+    background: #fff;
+    font-size: 15px;
+    font-family: Helvetica,Arial,sans-serif;
+}
+.register-title{
+	color: #42bd56;
+    font-size: 80px;
+    margin: 10% ;
+    font-weight: 300;
+    
+}
+.center{
+	text-align: center;
+}
+.main{
+	margin: 10% 4%;
+}
+.main input{
+	
+	width: 100%;
+	height: 92px;
+	font-size: 30px;
+	text-indent: 20px;
+	border: 1px solid #ccc;
+	border-radius: 10px ;
+}
+#pwd{position: relative}
+
+.regist{
+	width: 96%;
+	height: 92px;
+	font-size: 40px;
+	border: none;
+	border-radius: 6px ;
+	text-align: center;
+	color: #FFFFFF;
+	background:  #42bd56;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.agree{
+	font-size: 25px;
+	color: #ccc;
+	text-align: center;
+	 width: 100%;
+	 display: block;
+}
+.loadApp{
+	display: block;
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+    color: #42bd56;
+    margin-top: 40px;
+}
+
+#completeWrap{
+	margin-top:10%;
+	width: 92%;
+	margin-left:4%;
+}
+#phone{
+	font-size: 26px;
+	color: #9b9b9b;
+	margin-bottom: 5%;
+}
+.getNum{
+	font-size: 26px;
+	width: 96%;
+	height: 92px;
+	border: 1px solid #ccc;
+	background: #FFFFFF;
+	position: relative;
+}
+#num{
+	
+	height: 92px;
+	border: none;
+	font-size: 26px;
+	text-indent: 10px;
+	border-radius: 5px;
+}
+#click{
+	position: absolute;
+	top:30%;
+	right: 20px;
+	width: 30%;	
+	font-size: 26px;
+	color:#42bd56;
+	border-left: 1px solid #ccc;
+	padding-left:5%;	
+	background: #FFFFFF;
+}
+#comp{
+	width: 96%;
+	height: 92px;
+	color: #fff;
+	background: #42bd56;
+	margin-top: 20px;
+	font-size: 30px;
+	border: none;
+	border-radius: 5px;
+}
